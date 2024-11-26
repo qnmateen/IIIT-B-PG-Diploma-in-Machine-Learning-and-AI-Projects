@@ -6,7 +6,7 @@ This project implements an automated system for classifying customer complaints 
 ## Problem Statement
 For a financial company, customer complaints carry significant importance as they indicate shortcomings in products and services. Manual allocation of tickets to relevant departments becomes tedious as the company grows. This project aims to automate the classification of customer complaints based on products/services mentioned in the tickets.
 
-## Dataset
+## Dataset Link - https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view
 - Contains 78,313 customer complaints
 - 22 features per complaint
 - Format: JSON
