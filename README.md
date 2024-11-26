@@ -70,7 +70,7 @@ This repository contains the AI projects I developed during my Postgraduate Dipl
 ## 📧 Contact & Support
 - **Author**: Qazi Noorul Mateen
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/qazi-noorul-mateen-36ab46139/)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([https://github.com/qnmateen])
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/qnmateen)
 - **Email**: [qnmateen.iitd@gmail.com](mailto:your.email@domain.com)
 
 Feel free to connect with me on LinkedIn or follow my work on GitHub. I'm always open to interesting discussions and collaboration opportunities!
