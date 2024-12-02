@@ -10,34 +10,34 @@ This repository contains the AI projects I developed during my Postgraduate Dipl
    - `TensorFlow` `GANs` `Medical Imaging`
 
 ### 🧠 Deep Learning & Computer Vision
-1. **[Gesture Recognition System](./Gesture%20Recognition-%20CNN%2BRNN)**
+1. **[Gesture Recognition System](./Gesture%20Recognition-%20CNN%2BRNN%20vs%20Conv3D)** 
    - Built a hybrid CNN+RNN and Conv3D model for real-time gesture recognition in smart TVs, supporting 5 distinct commands
    - Achieved robust performance through sequential frame processing and temporal feature extraction
    - `Deep Learning` `Computer Vision` `Video Processing`
 
-2. **[Melanoma Detection](./Melanoma%20Detection_custom_CNN)**
+2. **[Melanoma Detection](./Melanoma%20Detection_custom_CNN)**  
    - Developed a custom CNN for 9-class skin cancer classification with focus on melanoma detection
    - Implemented advanced data augmentation techniques to handle class imbalance and achieved improved accuracy
    - `CNN` `Medical Imaging` `TensorFlow`
 
 ### 🤖 Reinforcement Learning
-1. **[Deep Q-Network for Intelligent Cab System](./Deep%20Q-Network%20(DQN)%20for%20Intelli)**
+1. **[Deep Q-Network for Intelligent Cab System](./Deep%20Q-Network%20(DQN)%20for%20Intelligent%20Cab%20Driver%20System)** 
    - Created a DQN-based system for optimizing cab drivers' ride selection decisions and profit maximization
    - Implemented dual network architecture with experience replay for improved learning stability
    - `DQN` `PyTorch` `Optimization`
 
-2. **[Numerical Tic-Tac-Toe Agent](./Reinforement%20Learning%20-%20TicTacToe)**
+2. **[Numerical Tic-Tac-Toe Agent](./Reinforement%20Learning%20-%20TicTacToe)**  
    - Developed a Q-Learning agent that masters numerical Tic-Tac-Toe using odd numbers to achieve a sum of 15
    - Implemented epsilon-greedy exploration and achieved convergence in strategic gameplay
    - `Q-Learning` `Game AI` `Python`
 
 ### 📝 Natural Language Processing
-1. **[Automatic Ticket Classification](./NLP%20-%20Automatic_Ticket_Classific)**
+1. **[Automatic Ticket Classification](./NLP%20-%20Automatic_Ticket_Classification)** 
    - Built an NLP pipeline using topic modeling (NMF) and supervised learning to automatically categorize customer complaints
    - Processed 78,313 customer complaints achieving efficient multi-class classification across 5 categories
    - `NLP` `Text Classification` `scikit-learn`
 
-2. **[Healthcare Entity Recognition](./Identifying_Entities_in_Healthcare)**
+2. **[Healthcare Entity Recognition](./Identifying_Entities_in_Healthcare_Data_CRF%20Model)**  
    - Implemented a Custom Named Entity Recognition system using Conditional Random Fields for medical text analysis
    - Created a disease-treatment mapping system with custom feature engineering for medical terms
    - `NLP` `CRF` `Healthcare`
@@ -48,7 +48,7 @@ This repository contains the AI projects I developed during my Postgraduate Dipl
    - Implemented feature engineering to handle seasonal and temporal patterns in usage data
    - `Regression` `Analytics` `Python`
 
-2. **[House Price Prediction](./House%20Price%20Prediction%20Advance_)**
+2. **[House Price Prediction](./House%20Price%20Prediction%20Advance_Regression)** 
    - Created advanced regression models with Ridge and Lasso regularization for Australian housing market price prediction
    - Performed extensive feature selection and engineering to improve model accuracy
    - `Ridge` `Lasso` `scikit-learn`
