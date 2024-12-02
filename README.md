@@ -4,7 +4,7 @@ This repository contains the AI projects I developed during my Postgraduate Dipl
 ## 🎯 Portfolio Highlights
 
 ### 🎨 Generative AI
-1. **[CycleGAN for MRI Style Transfer](./CycleGAN%20for%20MRI%20Style%20Transfer)**
+1. **[CycleGAN for MRI Style Transfer](./CycleGAN%20for%20MRI%20Style%20Transfer%20T1-T2%20Image%20Translation%20(CAPSTONE))** 
    - Implemented a CycleGAN architecture with modified U-Net to transform T1-weighted MRI images to T2-weighted images and vice-versa
    - Developed an unpaired image-to-image translation system to aid medical diagnosis without additional scanning costs
    - `TensorFlow` `GANs` `Medical Imaging`
