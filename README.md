@@ -43,7 +43,7 @@ This repository contains the AI projects I developed during my Postgraduate Dipl
    - `NLP` `CRF` `Healthcare`
 
 ### 📊 Machine Learning (Regression / Classification)
-1. **[Bike Sharing Demand Prediction](./Bike_Sharing_Assignment_2)**
+1. **[Bike Sharing Demand Prediction](./Bike_Sharing_Assignment_%202)** 
    - Developed multiple linear regression model to predict bike sharing demand considering various environmental factors
    - Implemented feature engineering to handle seasonal and temporal patterns in usage data
    - `Regression` `Analytics` `Python`
